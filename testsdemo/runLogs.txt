@@ -1,0 +1,9 @@
+2020-03-08 01:28:27,607	|	DEBUG	|	setup | chrome will be used to perform the Tests.
+2020-03-08 01:28:27,607	|	DEBUG	|	setup | False is the value for Headless
+2020-03-08 01:28:30,187	|	DEBUG	|	setup | THis is a debug message print
+2020-03-15 16:54:24,136	|	DEBUG	|	setup | chrome will be used to perform the Tests.
+2020-03-15 16:54:24,136	|	DEBUG	|	setup | False is the value for Headless
+2020-03-15 16:54:26,428	|	DEBUG	|	setup | THis is a debug message print
+2020-03-15 16:54:47,694	|	DEBUG	|	setup | chrome will be used to perform the Tests.
+2020-03-15 16:54:47,694	|	DEBUG	|	setup | False is the value for Headless
+2020-03-15 16:54:49,954	|	DEBUG	|	setup | THis is a debug message print
